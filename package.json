@@ -1,0 +1,23 @@
+{
+  "name": "weatherapi",
+  "version": "1.0.0",
+  "description": "Weather API Start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shusweela/week11.git"
+  },
+  "author": "Shusweela O",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shusweela/week11/issues"
+  },
+  "homepage": "https://github.com/Shusweela/week11#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
