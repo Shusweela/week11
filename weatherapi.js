@@ -7,12 +7,12 @@ req.query({
     "q": "London",
     "unit": "imperial",
     "mode": "html",
-    "appid": "818d54fce1f2bc3ca871a062754fb13f"	
+    "appid": "INSERT KEY"	
 });
 
 req.headers({
 	"x-rapidapi-host": "openweathermap.org/data/2.5/weather",
-    "x-rapidapi-key": "818d54fce1f2bc3ca871a062754fb13f",
+    "x-rapidapi-key": "INSERT KEY",
 	"useQueryString": true
 });
 
