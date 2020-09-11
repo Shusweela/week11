@@ -3,6 +3,10 @@ var unirest = require("unirest");
 
 var req = unirest("GET", "http://api.openweathermap.org/data/2.5/weather");
 
+var city = 
+var state = 
+
+
 req.query({
     "q": "London",
     "unit": "imperial",
@@ -22,3 +26,7 @@ req.end(function (res) {
 
 	console.log(res.body);
 });
+
+function button(){
+    
+}
